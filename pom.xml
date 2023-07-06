@@ -54,13 +54,6 @@
                     </execution>
 
                     <execution>
-                        <id>prepare-agent</id>
-                        <goals>
-                            <goal>prepare-agent</goal>
-                        </goals>
-                    </execution>
-
-                    <execution>
                         <id>check</id>
                         <goals>
                             <goal>check</goal>
